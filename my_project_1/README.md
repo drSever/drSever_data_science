@@ -5,7 +5,7 @@ I will be grateful for the help and criticism of the projects. And I apologize f
 
 # My project 1. Section PYTHON-8. Tools for Data Science
 # Table of contents
-1. [Job description](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#Job_description)
+1. [Job description](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#Job-description)
 2. Quality metric
 3. What we practice
 4. Stages of the project.
