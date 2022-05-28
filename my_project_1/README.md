@@ -8,7 +8,7 @@ I will be grateful for the help and criticism of the projects. And I apologize f
 1. [Job description](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#Job-description)
 2. [Quality metric](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#Quality-metric)
 3. [What we practice](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#What-we-practice)
-4. [Stages of the project.](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#JStages-of-the-project)
+4. [Stages of the project](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#Stages-of-the-project)
 5. [Result.](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#Result)
 
 ## Job description
