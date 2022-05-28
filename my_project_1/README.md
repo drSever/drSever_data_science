@@ -6,10 +6,10 @@ I will be grateful for the help and criticism of the projects. And I apologize f
 # My project 1. Section PYTHON-8. Tools for Data Science
 # Table of contents
 1. [Job description](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#Job-description)
-2. Quality metric
-3. What we practice
-4. Stages of the project.
-5. Result.
+2. [Quality metric](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#Quality-metric)
+3. [What we practice](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#What-we-practice)
+4. [Stages of the project.](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#JStages-of-the-project)
+5. [Result.](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#Result)
 
 ## Job description
 
@@ -29,7 +29,7 @@ The results are evaluated by the average number of attempts at 1000 repetitions.
 - Learning to work with IDE.
 - Learning to work with GitHub.
 
-## Stages of the project.
+## Stages of the project
 
 - I changed the source code
 - I put comments in my code
