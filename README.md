@@ -1,8 +1,11 @@
-# drSever_data_science
-drSever homework
+# drSever DS SF
+Hello everyone! My name is Aleksandr and I am learning Data Science in Skill Factory.
+Below are my training projects.
 
-## My DS first project
+## My projects
 
 1. Project 0 (https://github.com/drSever/drSever_data_science/tree/main/project_0)
-2. Project 1 ___
-3. Project 2 ___
+2. Project 1 (https://github.com/drSever/drSever_data_science/tree/main/my_project_1)
+
+## Note
+I will be grateful for the help and criticism of the projects. And I apologize for my English.

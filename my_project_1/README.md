@@ -2,7 +2,7 @@
 Hello everyone! My name is Aleksandr and I am learning Data Science in Skill Factory.
 Below are my training projects.
 
-# My projects 1
+# My project 1
 
 ## Job description
 
