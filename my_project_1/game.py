@@ -11,10 +11,27 @@ def random_predict(number:int=1) -> int:
         int: Число попыток
     """
 
-    count = 0
     predict_number = np.random.randint(1, 101) # предполагаемое число
+    """Выносим первую попытку отгадать число за пределы цикла, 
+        что даст нам фору в 4 попытки и уменьшит объем кода внутри цикла.
+        Соответственно, счетчик попыток изначально равен 1
+    """
+    
+    count = 1 # счетчик попыток изначально равен 1
     
     while True:
+        """Сужаем диапазон угадывания с каждым уровнем ветвления возможных вариантов,
+        используя код:
+        
+                if number == predict_number:
+                    break # выход из цикла, если угадали
+                elif number > predict_number:
+                    predict_number = np.random.randint(predict_number,101) # предполагаемое число
+                elif number < predict_number:
+                    predict_number = np.random.randint(1, predict_number) # предполагаемое число
+                    
+        """
+        
         count += 1
         
         if number == predict_number:
