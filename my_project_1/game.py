@@ -1,3 +1,6 @@
+"""Игра угадай число
+Компьютер сам загадывает и сам угадывает число
+"""
 
 import numpy as np
 
@@ -10,83 +13,28 @@ def random_predict(number:int=1) -> int:
     Returns:
         int: Число попыток
     """
-
-    predict_number = np.random.randint(1, 101) # предполагаемое число
-    """Выносим первую попытку отгадать число за пределы цикла, 
-        что даст нам фору в 4 попытки и уменьшит объем кода внутри цикла.
-        Соответственно, счетчик попыток изначально равен 1
-    """
     
-    count = 1 # счетчик попыток изначально равен 1
+    number = np.random.randint(1,101) # компьютер загадал число
+    count = 0 # счетчик попыток изначально равен 0
+    min_predict_number = 1 # начало интервала для угадывания числа
+    max_predict_number = 101 # конец интервала для угадывания числа
     
     while True:
-        """Сужаем диапазон угадывания с каждым уровнем ветвления возможных вариантов,
-        используя код:
-        
-                if number == predict_number:
-                    break # выход из цикла, если угадали
-                elif number > predict_number:
-                    predict_number = np.random.randint(predict_number,101) # предполагаемое число
-                elif number < predict_number:
-                    predict_number = np.random.randint(1, predict_number) # предполагаемое число
-                    
+        """С каждой итерацией сужаем интервал угадывания числа 
+        (алгоритм бинарного поиска)
         """
-        
         count += 1
+        predict_number = np.random.randint(min_predict_number,max_predict_number) # предполагаемое число
         
         if number == predict_number:
             break # выход из цикла, если угадали
+        
         elif number > predict_number:
-            predict_number = np.random.randint(predict_number,101) # предполагаемое число
-            
-            if number == predict_number:
-                break # выход из цикла, если угадали
-            elif number > predict_number:
-                predict_number = np.random.randint(predict_number,101) # предполагаемое число
-                
-                if number == predict_number:
-                    break # выход из цикла, если угадали
-                elif number > predict_number:
-                    predict_number = np.random.randint(predict_number,101) # предполагаемое число
-                elif number < predict_number:
-                    predict_number = np.random.randint(1, predict_number) # предполагаемое число
-                
-            elif number < predict_number:
-                predict_number = np.random.randint(1, predict_number) # предполагаемое число
-                
-                if number == predict_number:
-                    break # выход из цикла, если угадали
-                elif number > predict_number:
-                    predict_number = np.random.randint(predict_number,101) # предполагаемое число
-                elif number < predict_number:
-                    predict_number = np.random.randint(1, predict_number) # предполагаемое число
-                
-            
+            min_predict_number = predict_number
+                            
         elif number < predict_number:
-            predict_number = np.random.randint(1, predict_number) # предполагаемое число
-            
-            if number == predict_number:
-                break # выход из цикла, если угадали
-            elif number > predict_number:
-                predict_number = np.random.randint(predict_number,101) # предполагаемое число
-                
-                if number == predict_number:
-                    break # выход из цикла, если угадали
-                elif number > predict_number:
-                    predict_number = np.random.randint(predict_number,101) # предполагаемое число
-                elif number < predict_number:
-                    predict_number = np.random.randint(1, predict_number) # предполагаемое число
-                
-            elif number < predict_number:
-                predict_number = np.random.randint(1, predict_number) # предполагаемое число
-            
-                if number == predict_number:
-                    break # выход из цикла, если угадали
-                elif number > predict_number:
-                    predict_number = np.random.randint(predict_number,101) # предполагаемое число
-                elif number < predict_number:
-                    predict_number = np.random.randint(1, predict_number) # предполагаемое число
-            
+            max_predict_number = predict_number
+                               
     return(count)
 
 print(f'Количество попыток: {random_predict()}')

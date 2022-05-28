@@ -1,8 +1,15 @@
-# drSever DS SF
+# drSever Data Science SF
 Hello everyone! My name is Aleksandr and I am learning Data Science in Skill Factory.
-Below are my training projects.
+## Note
+I will be grateful for the help and criticism of the projects. And I apologize for my English.
 
-# My project 1
+# My project 1. Section PYTHON-8. Tools for Data Science
+# Table of contents
+1. [Job description](https://github.com/drSever/drSever_data_science/tree/main/my_project_1#Job_description)
+2. Quality metric
+3. What we practice
+4. Stages of the project.
+5. Result.
 
 ## Job description
 
@@ -22,8 +29,15 @@ The results are evaluated by the average number of attempts at 1000 repetitions.
 - Learning to work with IDE.
 - Learning to work with GitHub.
 
-## Note
-I will be grateful for the help and criticism of the projects. And I apologize for my English.
+## Stages of the project.
 
-## Note 2
-Frankly, I do not like the solution of this problem. My code is not elegant and my inner perfectionist resents it.
+- I changed the source code
+- I put comments in my code
+- Created a file *.ipynb
+- Created the README.md file
+- Made additional changes to the README.md file
+
+## Result
+
+My algorithm guesses the number in an average of 8 attempts. The data is loaded on GitHub.
+
