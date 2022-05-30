@@ -21,7 +21,6 @@ def random_predict(number:int=1) -> int:
     
     while True:
         """С каждой итерацией сужаем интервал угадывания числа 
-        (алгоритм бинарного поиска)
         """
         count += 1
         predict_number = np.random.randint(min_predict_number,max_predict_number) # предполагаемое число
