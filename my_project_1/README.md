@@ -36,6 +36,7 @@ The results are evaluated by the average number of attempts at 1000 repetitions.
 - Created a file *.ipynb
 - Created the README.md file
 - Made additional changes to the README.md file
+- ## I worked on the bugs after the mentor checked.
 
 ## Result
 

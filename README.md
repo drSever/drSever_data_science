@@ -1,4 +1,4 @@
-# drSever DS SF
+# drSever Data Science SF
 Hello everyone! My name is Aleksandr and I am learning Data Science in Skill Factory.
 Below are my training projects.
 
