@@ -37,9 +37,11 @@ After an exploratory analysis, in order to identify the most important attribute
 - I downloaded the data and processed it, preparing it for visualization. 
 - I studied the documentation for the Plotly library (express). 
 - I plotted the data, examined it, and provided descriptions and conclusions. 
-- ## My mentor hasn't checked my work yet.
+- My mentor checked my work. I corrected the mistakes.
 
 ## Result
 
 Tasks completed, project files uploaded to GitHub. 
+
+***I plan to build a correlation table between the traits and the target variable. After researching this question.*** 
 
