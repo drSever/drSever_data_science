@@ -51,5 +51,5 @@ HeadHunter wants to build a model that automatically determines the approximate 
 ## Result
 
 Tasks completed, project files uploaded to GitHub.  
-I'm waiting for a mentor check.  
+**I'm waiting for a mentor check.** 
 
