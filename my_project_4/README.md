@@ -46,10 +46,10 @@ HeadHunter wants to build a model that automatically determines the approximate 
 - Completed assignments on the SkillFactory platform and in Notebook.
 - I drew the necessary graphs and analyzed them.
 - Uploaded the completed work to GitHub.
-- **My mentor hasn't checked my work yet.**
+- **Mentor checked my work. Now I am eliminating mistakes and shortcomings.**
 
 ## Result
 
 Tasks completed, project files uploaded to GitHub.  
-**I'm waiting for a mentor check.** 
+**Mentor checked my work. Now I am eliminating mistakes and shortcomings.** 
 
