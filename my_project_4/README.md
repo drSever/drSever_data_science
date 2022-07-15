@@ -19,7 +19,8 @@ HeadHunter wants to build a model that automatically determines the approximate 
 
 **Notes.**   
 1. Due to GitHub limitations, the data file must be downloaded separately. Here is the [link](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
-2. Since GitHub does not support Plotly, the graphs will be in the ***plotly*** directory as html-files, the links to them will be in the Notebook itself.
+2. Unfortunately, GitHub does not support rendering the Plotly library. The original graphics are saved to the **plotly** directory, and will be referenced in the notebook itself. The same graphs in .svg format, which are presented in the Markdown section, are also located there.
+3. I would like to thank my mentor Maria Zharova for reviewing my project and helping me solve problems with the Plotly library.
 
 ## Quality metric
 
@@ -46,10 +47,10 @@ HeadHunter wants to build a model that automatically determines the approximate 
 - Completed assignments on the SkillFactory platform and in Notebook.
 - I drew the necessary graphs and analyzed them.
 - Uploaded the completed work to GitHub.
-- **Mentor checked my work and now I am eliminating mistakes and shortcomings.**
+- **The mentor checked my work and I corrected the mistakes.**
 
 ## Result
 
 Tasks completed, project files uploaded to GitHub.  
-**Mentor checked my work and now I am eliminating mistakes and shortcomings.** 
+
 
