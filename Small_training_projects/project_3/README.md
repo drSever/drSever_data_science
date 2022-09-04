@@ -5,11 +5,11 @@ I will be grateful for the help and criticism of the projects. And I apologize f
 
 # Small training projects. Project 3. Section EDA-4. Statistical tests.
 # Table of contents
-1. [Job description](https://github.com/drSever/drSever_data_science/blob/main/Small_training_projects/project_3#Job-description)
-2. [Quality metric](https://github.com/drSever/drSever_data_science/blob/main/Small_training_projects/project_3#Quality-metric)
-3. [What we practice](https://github.com/drSever/drSever_data_science/blob/main/Small_training_projects/project_3#What-we-practice)
-4. [Stages of the project](https://github.com/drSever/drSever_data_science/blob/main/Small_training_projects/project_3#Stages-of-the-project)
-5. [Result](https://github.com/drSever/drSever_data_science/blob/main/Small_training_projects/project_3#Result)
+1. [Job description](https://github.com/drSever/drSever_data_science/tree/main/Small_training_projects/project_3#Job-description)
+2. [Quality metric](https://github.com/drSever/drSever_data_science/tree/main/Small_training_projects/project_3#Quality-metric)
+3. [What we practice](https://github.com/drSever/drSever_data_science/tree/main/Small_training_projects/project_3#What-we-practice)
+4. [Stages of the project](https://github.com/drSever/drSever_data_science/tree/main/Small_training_projects/project_3#Stages-of-the-project)
+5. [Result](https://github.com/drSever/drSever_data_science/tree/main/Small_training_projects/project_3#Result)
 
 ## Job description
 
