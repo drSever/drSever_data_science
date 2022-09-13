@@ -36,5 +36,5 @@ Problem solved, correct statistical tests selected, correct conclusions formulat
 
 ## Result
 
-***My mentor hasn't checked my work yet.***
+Mentor checked my work. I did well on my assignment.
 
