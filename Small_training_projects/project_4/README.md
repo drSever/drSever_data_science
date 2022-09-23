@@ -32,9 +32,9 @@ Problem solved, correct statistical tests selected, correct conclusions formulat
 - I modified the source code and added my.
 - I have studied the theory presented in the training module.
 - I created a finall notebook to do this task and uploaded and formatted it on GitHub.
-- I'm waiting for my mentor to check my work.
+
 
 ## Result
 
-***My mentor hasn't checked my work yet.***
+Mentor checked my work. I did well on my assignment.
 
