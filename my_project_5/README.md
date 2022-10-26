@@ -50,7 +50,6 @@ In this module we are going to work with a dataset that contains information abo
 
 - Task completed, submitted on Kaggle, notebook uploaded to GitHub.
 - I placed 15th in the competition with MAPE = 12.1268
-
-- **Mentor hasn't checked my work yet.**
+- Mentor checked my work.
 
 
