@@ -13,5 +13,5 @@ Below are my training projects.
 ## Note
 I will be grateful for the help and criticism of the projects. And I apologize for my English.
 
-РїСЂРѕРІРµСЂРёРј РєРёСЂРёР»Р»РёС†Сѓ
+проверим кириллицу
 check rus

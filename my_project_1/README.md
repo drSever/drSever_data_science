@@ -13,7 +13,7 @@ I will be grateful for the help and criticism of the projects. And I apologize f
 
 ## Job description
 
-- A computer makes an integer between 1 and 100, and we have to guess it. By В«guessВ» we mean В«to write a program that guesses a numberВ».
+- A computer makes an integer between 1 and 100, and we have to guess it. By «guess» we mean «to write a program that guesses a number».
 - The algorithm takes into account information about whether more or less than a random number of the number we need.
 - Provides a baseline template from a screencast.
 - Using ready-made code as well as ingenuity, it is necessary to write your function, which will cope with guessing in less than 20 attempts.

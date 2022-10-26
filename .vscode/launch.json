@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: РўРµРєСѓС‰РёР№ С„Р°Р№Р»",
+            "name": "Python: Текущий файл",
             "type": "python",
             "request": "launch",
             "program": "${file}",

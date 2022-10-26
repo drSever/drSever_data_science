@@ -2,19 +2,19 @@
 
 import numpy as np
 
-number = np.random.randint(1, 101) # Р·Р°РіР°РґС‹РІР°РµРј С‡РёСЃР»Рѕ
+number = np.random.randint(1, 101) # загадываем число
 count = 0
 
 while True:
     count += 1
-    predict_number = int(input("РЈРіР°РґР°Р№ С‡РёСЃР»Рѕ РѕС‚ 1 РґРѕ 100"))
+    predict_number = int(input("Угадай число от 1 до 100"))
 
     if predict_number > number:
-        print("Р§РёСЃР»Рѕ РґРѕР»Р¶РЅРѕ Р±С‹С‚СЊ РјРµРЅСЊС€Рµ!")
+        print("Число должно быть меньше!")
 
     elif predict_number < number:
-        print("Р§РёСЃР»Рѕ РґРѕР»Р¶РЅРѕ Р±С‹С‚СЊ Р±РѕР»СЊС€Рµ!")
+        print("Число должно быть больше!")
 
     else:
-        print(f"Р’С‹ СѓРіР°РґР°Р»Рё С‡РёСЃР»Рѕ! Р­С‚Рѕ С‡РёСЃР»Рѕ = {number}, Р·Р° {count} РїРѕРїС‹С‚РѕРє")
-        break # РєРѕРЅРµС† РёРіСЂС‹, РІС‹С…РѕРґ РёР· С†РёРєР»Р°
+        print(f"Вы угадали число! Это число = {number}, за {count} попыток")
+        break # конец игры, выход из цикла
