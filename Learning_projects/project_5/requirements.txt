@@ -10,10 +10,11 @@ autopage==0.5.1
 backcall==0.2.0
 beautifulsoup4==4.11.1
 bleach==5.0.1
+certifi==2022.12.7
 cffi==1.15.1
 cliff==4.1.0
 cloudpickle==2.2.0
-cmaes==0.9.0
+cmaes==0.9.1
 cmd2==2.4.2
 colorlog==6.7.0
 comm==0.1.2
@@ -23,6 +24,7 @@ debugpy==1.6.4
 decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.4
+et-xmlfile==1.1.0
 executing==1.2.0
 fastjsonschema==2.16.2
 fonttools==4.38.0
@@ -65,7 +67,8 @@ networkx==2.8.8
 notebook==6.5.2
 notebook_shim==0.2.2
 numpy==1.23.5
-optuna==2.10.1
+openpyxl==3.0.10
+optuna==3.1.0
 packaging==22.0
 pandas==1.5.2
 pandocfilters==1.5.0
@@ -119,4 +122,5 @@ webcolors==1.12
 webencodings==0.5.1
 websocket-client==1.4.2
 widgetsnbextension==4.0.4
+yellowbrick==1.5
 zipp==3.11.0

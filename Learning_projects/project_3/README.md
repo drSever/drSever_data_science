@@ -3,7 +3,7 @@ Hello everyone! My name is Aleksandr and I am learning Data Science in Skill Fac
 ## Note
 I will be grateful for the help and criticism of the projects. And I apologize for my English.
 
-# Small training projects. Project 4. Section EDA-5. A/B testing.
+# Project: A/B testing.
 # Table of contents
 1. [Job description](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_3#Job-description)
 2. [Quality metric](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_3#Quality-metric)
