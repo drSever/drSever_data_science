@@ -2,9 +2,12 @@
 Hello everyone! My name is Aleksandr and I am learning Data Science in Skill Factory.
 Below are my projects.
 
-## My projects
+## My learning projects
+- [learning projects](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects)
+- [learning projects (simple)](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_simple)
 
-# NOT READY YET
+# My  Portfolio
+1. Project: classification task
 
 ## Note
 I will be grateful for the help and criticism of the projects. And I apologize for my English.
