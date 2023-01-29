@@ -2,7 +2,7 @@
 Hello everyone! My name is Aleksandr and I am learning Data Science in Skill Factory.
 Below are my projects.
 
-## My projects here:
+## My learning (simple) projects here:
 
 1. [Guess the number game.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_simple/project_1)
 2. [Data cleaning. Consolidation of knowledge.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_simple/project_2)
