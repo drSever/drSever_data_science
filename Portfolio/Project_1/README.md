@@ -36,6 +36,7 @@ Built a machine learning model that will predict, based on the proposed characte
 
 - Models of logistic regression, random forest, gradient boosting and stacking were trained.
 - Improved model metrics compared to Baseline. 
+- the following resources were used for model training: MacBook m1 pro, Google Colab (free), Yandex DataSphere (trial), SaturnCloud (free).
 - project files uploaded to GitHub. 
 
 
