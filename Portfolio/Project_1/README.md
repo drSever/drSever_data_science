@@ -3,7 +3,7 @@ Hello everyone! My name is Aleksandr and I am learning Data Science in Skill Fac
 ## Note
 I will be grateful for the help and criticism of the projects. And I apologize for my English.
 
-# Project: Data visualization. Consolidation of knowledge. 
+# Project: Classification task. 
 # Table of contents
 1. [Job description](https://github.com/drSever/drSever_data_science/tree/main/Portfolio/Project_1#Job-description)
 2. [Quality metric](https://github.com/drSever/drSever_data_science/tree/main/Portfolio/Project_1#Quality-metric)
