@@ -9,6 +9,7 @@ Below are my projects.
 3. [Project: A/B testing.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_3)
 4. [Project: EDA + Feature Engineering. Competition at Kaggle.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_4)
 5. [Project: Optimization of model hyperparameters.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_5)
+6. [Project: Working with linear and polynomial regression. Regularization.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_6)
 
 ## Note
 I will be grateful for the help and criticism of the projects. And I apologize for my English.
