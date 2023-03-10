@@ -10,6 +10,7 @@ Below are my projects.
 4. [Project: EDA + Feature Engineering. Competition at Kaggle.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_4)
 5. [Project: Optimization of model hyperparameters.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_5)
 6. [Project: Working with linear and polynomial regression. Regularization.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_6)
+7. [Project: Stochastic gradient and coordinate descents.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_7)
 
 ## Note
 I will be grateful for the help and criticism of the projects. And I apologize for my English.
