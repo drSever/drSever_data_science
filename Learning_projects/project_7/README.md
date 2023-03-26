@@ -44,6 +44,5 @@ Understanding and implementation of stochastic gradient and coordinate descent a
 ## Result
 
 - Task completed, notebook uploaded to GitHub.
-- **Mentor hasn't checked my work yet.**
 
 
