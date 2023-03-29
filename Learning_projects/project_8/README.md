@@ -40,6 +40,5 @@ Working with Bayesian classifiers: MultinomialNB, ComplementNB.
 ## Result
 
 - Task completed, notebook uploaded to GitHub.
-- **Mentor hasn't checked my work yet.**
 
 
