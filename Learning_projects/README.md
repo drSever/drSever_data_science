@@ -11,7 +11,7 @@ Below are my projects.
 5. [Project: Optimization of model hyperparameters.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_5)
 6. [Project: Working with linear and polynomial regression. Regularization.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_6)
 7. [Project: Stochastic gradient and coordinate descents.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_7)
-8. [Naive Bayesian classifier: practice.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_8)
+8. [Project: Naive Bayesian classifier: practice.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects/project_8)
 
 ## Note
 I will be grateful for the help and criticism of the projects. And I apologize for my English.
