@@ -6,6 +6,12 @@ I will be grateful for the help and criticism of the projects. And I apologize f
 # Project: Clusterisation task. 
 ## Clustering of vehicle images. Real case from IntelliVision
 
+## Files description
+
+- **project_IntelliVision.ipynb** - file contains a clustering of all descriptors (**not displayed on GitHub**)
+- **project_IntelliVision_1.ipynb** - file contains a clustering of the following descriptors: *efficientnet-b7*, *osnet* 
+- **project_IntelliVision_2.ipynb** - file contains a clustering of the following descriptors: *vdc_color*, *vdc_type*
+
 ## Task description.
 There is a set of 416,314 images of vehicles of different types, colors and taken from different angles.
 
