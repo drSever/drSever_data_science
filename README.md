@@ -5,6 +5,7 @@ Below are my projects.
 ## My learning projects
 - [learning projects](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects)
 - [learning projects (simple)](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_simple)
+- [learning projects DL](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl)
 
 # My  Portfolio
 1. [Project: classification task](https://github.com/drSever/drSever_data_science/tree/main/Portfolio/Project_1)
