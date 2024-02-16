@@ -1,0 +1,8 @@
+train: ../data_yolo/images/train/
+val: ../data_yolo/images/val/
+
+# number of classes
+nc: 3
+
+# class names
+names: ["mask_weared_incorrect", "with_mask", "without_mask"]
