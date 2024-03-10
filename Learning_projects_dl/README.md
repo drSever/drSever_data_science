@@ -9,6 +9,7 @@ Below are my projects.
 3. [Project: YOLOv5 vs. Faster RCNN.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl/project_3)
 4. [Project: Medical mask detection.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl/project_4)
 5. [Project: Segmentation (practice).](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl/project_5)
+6. [Project: Sartorius - Cell Instance Segmentation (Baseline).](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl/project_6)
 
 
 ## Note
