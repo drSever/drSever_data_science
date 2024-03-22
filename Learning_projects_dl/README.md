@@ -11,6 +11,7 @@ Below are my projects.
 5. [Project: Segmentation (practice).](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl/project_5)
 6. [Project: Sartorius - Cell Instance Segmentation (Baseline).](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl/project_6)
 7. [Project: Spacecraft segmentation.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl/project_7)
+8. [Project: VAE for data generation.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl/project_8)
 
 
 ## Note
