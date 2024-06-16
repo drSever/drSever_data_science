@@ -14,6 +14,7 @@ Below are my projects.
 8. [Project: VAE for data generation.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl/project_8)
 9. [Project: Exploring the latent space for the generated images.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl/project_9)
 10. [Project: Style transfer on mobile devices.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl/project_10)
+11. [Project: Automatic generation of image captions.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_dl/project_11)
 
 
 ## Note
