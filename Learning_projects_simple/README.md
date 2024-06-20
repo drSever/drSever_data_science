@@ -7,6 +7,7 @@ Below are my projects.
 1. [Guess the number game.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_simple/project_1)
 2. [Data cleaning. Consolidation of knowledge.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_simple/project_2)
 3. [EDA tests.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_simple/project_3)
+4. [Colour representation of the image.](https://github.com/drSever/drSever_data_science/tree/main/Learning_projects_simple/project_4)
 
 ## Note
 I will be grateful for the help and criticism of the projects. And I apologize for my English.
