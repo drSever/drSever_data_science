@@ -1,11 +1,11 @@
 # Виртуальный коуч: оценка повторения движений за коучем.
 
 ## Содержание
-1. [Описание проекта](https://github.com/drSever/drSever_data_science/tree/main/Portfolio/Project_6#Цели-и-задачи-проекта)
+1. [Цели и задачи проекта](https://github.com/drSever/drSever_data_science/tree/main/Portfolio/Project_6#Цели-и-задачи-проекта)
 2. [Структура проекта](https://github.com/drSever/drSever_data_science/tree/main/Portfolio/Project_6#Структура-проекта)
-3. [Требования к исходному видео](https://github.com/drSever/drSever_data_science/tree/main/Portfolio/Project_6#Запуск-приложения)
-4. [Запуск приложения](https://github.com/drSever/drSever_data_science/tree/main/Portfolio/Project_6#Stages-of-the-project)
-5. [Этапы работы над проектом](https://github.com/drSever/drSever_data_science/tree/main/Portfolio/Project_6#RЭтапы-работы-над-проектом)
+3. [Требования к исходному видео](https://github.com/drSever/drSever_data_science/tree/main/Portfolio/Project_6#Требования-исходному-видео)
+4. [Запуск приложения](https://github.com/drSever/drSever_data_science/tree/main/Portfolio/Project_6#Запуск-приложения)
+5. [Этапы работы над проектом](https://github.com/drSever/drSever_data_science/tree/main/Portfolio/Project_6#Этапы-работы-над-проектом)
 
 ## Цели и задачи проекта
 
