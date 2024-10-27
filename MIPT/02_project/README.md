@@ -1,4 +1,4 @@
-# Project: student performance analysis.
+# Practice: linear regression using the method of least squares.
 
 # Table of contents
 1. [Job description](https://github.com/drSever/drSever_data_science/tree/main/MIPT/02_project#Job-description)
